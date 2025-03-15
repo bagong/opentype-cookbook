@@ -108,7 +108,7 @@ include(features/family.fea);
 include(features/bold-kern.fea);
 ```
 
-Even in other folders, below the current one:
+Even in other folders, above the current one:
 
 ```opentype_feature_file
 include(../tables.fea);
